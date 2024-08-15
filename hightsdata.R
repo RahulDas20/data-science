@@ -9,3 +9,5 @@ y <- heights$height
 x
 y
 hist(y)
+data("murders")
+
